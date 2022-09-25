@@ -1,0 +1,9 @@
+.menu_link {
+    background: var(--branco);
+    padding: 15px 30px;
+    border-radius: 4px;
+    color: black;
+    text-transform: uppercase;
+    text-decoration: none;
+    
+}

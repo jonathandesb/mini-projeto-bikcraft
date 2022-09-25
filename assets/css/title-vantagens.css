@@ -1,0 +1,9 @@
+.title_vantagens {
+    font-size: 64px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    color: var(--cinza-escuro);
+    text-align: right;
+    align-self: center;
+    padding: 40px;
+}

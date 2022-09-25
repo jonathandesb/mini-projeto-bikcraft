@@ -1,0 +1,41 @@
+
+@import url(menu/menu-lista.css);
+@import url(menu/menu-item.css);
+@import url(menu/menu-link.css);
+
+@import url(main.css);
+
+@import url(description/description.css);
+@import url(description/description-title.css);
+@import url(description/description-sub.css);
+@import url(description/description-button.css);
+@import url(description/description-detalhe.css);
+
+@import url(imagem-bikcraft.css);
+
+@import url(title-vantagens.css);
+
+@import url(vantagens/vantagens.css);
+@import url(vantagens/vantagens-item.css);
+@import url(vantagens/vantagens-title.css);
+@import url(vantagens/vantagens-description.css);
+
+@import url(footer.css);
+
+
+:root {
+    --cinza: #f7f7f7;
+    --cinza-escuro: #c6c6c6;
+    --vermelho: #ee2211;
+    --branco: white;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background: var(--cinza);
+    display: grid;
+    gap: 60px;
+    justify-items: center;
+    margin-top: 60px;
+}

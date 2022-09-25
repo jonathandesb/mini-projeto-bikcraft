@@ -1,0 +1,9 @@
+.description {
+    background: var(--branco);
+    padding: 40px;
+    text-align: right;
+    position: relative;
+    display: grid;
+    align-content: center;
+    justify-items: end;
+}

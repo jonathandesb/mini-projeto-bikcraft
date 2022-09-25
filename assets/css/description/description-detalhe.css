@@ -1,0 +1,10 @@
+.description_detalhe {
+    width: 60px;
+    height: 4px;
+    background: var(--vermelho);
+    position: absolute;
+    top: 30px;
+    right: -30px;   
+    width: 60px;
+    position: absolute;
+}
